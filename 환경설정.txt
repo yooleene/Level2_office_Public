@@ -1,5 +1,5 @@
 1.pip 업그레이드
-python -m pip install --upgrade pip --trusted-host pypi.org --trusted-host files.pythonhosted.org
+py -m pip install --upgrade pip --trusted-host pypi.org --trusted-host files.pythonhosted.org
 
 2.주피터노트북 설치
 pip install jupyter --trusted-host pypi.org --trusted-host files.pythonhosted.org
